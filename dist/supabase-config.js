@@ -1,6 +1,5 @@
-// Public Supabase browser configuration.
-// Replace the two empty strings with values from Supabase > Project Settings > API.
-// The anon/publishable key is designed for browser use; never put a service_role key here.
-window.CODEVANJAR_SUPABASE_URL = window.CODEVANJAR_SUPABASE_URL || '';
-window.CODEVANJAR_SUPABASE_ANON_KEY = window.CODEVANJAR_SUPABASE_ANON_KEY || '';
+window.CODEVENJAR_SUPABASE_URL =
+  "https://dbpygaegntbyjepyiphx.supabase.co";
 
+window.CODEVENJAR_SUPABASE_ANON_KEY =
+  "sb_publishable_kN1IRGOwNX9U1q0_GMqLvA_WqGx-iqB";
